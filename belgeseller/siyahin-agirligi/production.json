@@ -1,0 +1,63 @@
+{
+  "title": "Siyahın Ağırlığı",
+  "subtitle": "Beşiktaş ve Vincenzo Italiano: Bir Değişimin Anatomisi",
+  "as_of": "2026-11-10",
+  "duration_seconds": 300,
+  "format": {
+    "aspect_ratio": "16:9",
+    "fps": 25,
+    "target_resolution": "3840x2160"
+  },
+  "language": "tr-TR",
+  "narrator": {
+    "voice": "original low male baritone",
+    "style": "measured, authoritative, cinematic",
+    "no_voice_cloning": true
+  },
+  "paid_generation_approved": false,
+  "workflow_status": "preproduction",
+  "chapters": [
+    [
+      "00:00",
+      "00:35",
+      "Prolog"
+    ],
+    [
+      "00:35",
+      "01:20",
+      "Italiano'nun gelişi"
+    ],
+    [
+      "01:20",
+      "02:15",
+      "Hücumun vaadi"
+    ],
+    [
+      "02:15",
+      "03:25",
+      "Savunmanın bedeli"
+    ],
+    [
+      "03:25",
+      "04:05",
+      "Kulübün sorumluluğu"
+    ],
+    [
+      "04:05",
+      "04:45",
+      "Henüz verilmemiş hüküm"
+    ],
+    [
+      "04:45",
+      "05:00",
+      "Final"
+    ]
+  ],
+  "rights": {
+    "archival_footage": "licensed only",
+    "ai_reenactment": "clearly identified",
+    "music": "original or licensed"
+  },
+  "cinecode_skill_path": ".claude/skills/cinecode",
+  "integration_path": "belgeseller/siyahin-agirligi"
+}
